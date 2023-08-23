@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AACA;EACC,qBAFQ;AAET,C","sources":["webpack://mehan-blocks/./src/style.scss"],"sourcesContent":["$colour: red;\r\n.wp-block-blocks-course-firstblock {\r\n\tbackground-color: $colour;\r\n}\r\n"],"names":[],"sourceRoot":""}

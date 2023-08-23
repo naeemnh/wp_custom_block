@@ -1,0 +1,22 @@
+{
+  "name": "mehan-blocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "format": "wp-scripts format",
+    "lint": "wp-scripts lint-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^21.0.2"
+  },
+  "dependencies": {
+    "@wordpress/block-editor": "^8.1.1",
+    "@wordpress/blocks": "^11.2.1"
+  }
+}
